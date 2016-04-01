@@ -1,0 +1,25 @@
+{
+  "name": "play-chrome-remote-debugging-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "chrome-remote-interface": "^0.11.0",
+    "co": "^4.6.0",
+    "jsdom": "^8.1.0",
+    "koa": "^1.2.0",
+    "lwip": "0.0.8",
+    "ramda": "^0.19.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.2",
+    "babel-plugin-transform-es2015-destructuring": "^6.6.5"
+  }
+}
